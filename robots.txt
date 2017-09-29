@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /rhel7/
+Disallow: /rhel6/
+Disallow: /rhel5/
